@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Fraud Detection in FinTech Transactions
+# Fraud Detection in FinTech Transactions
 
 ## Project Overview
 
